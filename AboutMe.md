@@ -1,252 +1,177 @@
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🦇 THE DARK KNIGHT THEME - vishwesh-01 GitHub Profile README 🦇 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ==================== HEADER ==================== -->
 
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED HEADER BANNER -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:C21E30,100:D7263D&height=200&section=header&text=VISHWESH%20PATIL&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Agentic%20AI%20%26%20LLMs%20%7C%20Python%20Developer&descSize=18&descAlignY=62&descAlign=50)
-
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- TYPING ANIMATION -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C21E30&center=true&vCenter=true&repeat=-1&width=650&height=70&lines=%F0%9F%91%8B+Vishwesh+Patil;%F0%9F%A4%96+Agentic+AI+%26+LLMs;%F0%9F%90%8D+Python+Developer;%F0%9F%9A%80+Building+Intelligent+Systems)](https://git.io/typing-svg)
-
-</div>
-
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- PROFILE BADGES ROW -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=vishwesh-01&color=C21E30&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/vishwesh-01?style=for-the-badge&color=C21E30&labelColor=0D1117&logo=github&logoColor=white&label=FOLLOWERS)](https://github.com/vishwesh-01?tab=followers)
-&nbsp;&nbsp;&nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/vishwesh-01?style=for-the-badge&color=C21E30&labelColor=0D1117&logo=github&logoColor=white&label=STARS)](https://github.com/vishwesh-01?tab=repositories)
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED DIVIDER -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- BIO SECTION -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp; About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-class VishweshPatil:
-    """🦇 The Dark Knight of Code 🦇"""
-    
-    def __init__(self):
-        self.name = "Vishwesh Patil"
-        self.role = "Agentic AI & LLMs Developer"
-        self.languages = ["Python", "JavaScript"]
-        self.focus = ["Large Language Models", "Agentic AI"]
-        self.learning = "Building Autonomous AI Agents"
-    
-    def get_bio(self) -> str:
-        return """
-        🎓 Currently a student exploring Large Language 
-           Models and building Agentic AI systems.
-        
-        🔍 Curious about how things work and what 
-           can be improved.
-        
-        💡 Turning thoughts and real-world problems 
-           into clean, working solutions.
-        """
-    
-    def __repr__(self):
-        return f"<Developer: {self.name} | {self.role}>"
-
-
-if __name__ == "__main__":
-    me = VishweshPatil()
-    print(me.get_bio())
-```
-
-<br clear="both"/>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED DIVIDER -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- TECH ARSENAL SECTION -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-## ⚔️ Tech Arsenal
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8B0000,100:C21E30&height=200&section=header&text=VISHWESH%20PATIL&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Agentic%20AI%20%7C%20LLMs%20%7C%20Python&descSize=18&descAlignY=65)
 
 <div align="center">
 
-### 🔥 Primary Weapons
-  
-![Python](https://img.shields.io/badge/Python-C21E30?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-0D1117?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-8B0000?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-C21E30?style=for-the-badge&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=C21E30&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Building+with+LLMs+and+Agentic+AI;Turning+ideas+into+working+systems;Learning+by+building%2C+testing%2C+and+improving)](https://git.io/typing-svg)
 
-### 🛡️ Secondary Arsenal
+<p>
+  <a href="https://github.com/vishwesh-01">
+    <img src="https://img.shields.io/badge/GitHub-vishwesh--01-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=8B0000" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vishwesh-patil-505969296/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-C21E30?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:patilvishwesh2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=C21E30)
-![Flask](https://img.shields.io/badge/Flask-8B0000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-C21E30?style=for-the-badge&logo=javascript&logoColor=0D1117)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=C21E30)
-
-### 🔧 Tools & Platforms
-
-![VS Code](https://img.shields.io/badge/VS_Code-8B0000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C21E30)
-![Linux](https://img.shields.io/badge/Linux-C21E30?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=C21E30)
+![Profile Views](https://komarev.com/ghpvc/?username=vishwesh-01&style=flat-square&color=C21E30&label=PROFILE+VIEWS)
 
 </div>
 
-<br/>
+---
 
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED DIVIDER -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+## About Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+I'm **Vishwesh Patil**, a developer exploring the intersection of **LLMs, Agentic AI, and practical software engineering**.
 
-<br/>
+I'm interested in what happens when AI moves beyond answering prompts and starts helping people accomplish actual tasks. That means experimenting with retrieval, context-aware applications, automation, and intelligent workflows.
 
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS SECTION -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+I learn best by building: taking an idea, working through the technical challenges, and turning it into something functional.
 
-## 📊 GitHub Analytics
+- 🧠 **Main interest:** LLMs, Agentic AI, and AI-powered applications
+- 🔎 **Exploring:** RAG, multi-LLM workflows, and intelligent automation
+- ♿ **Emerging interest:** Voice-first AI and accessible browsing experiences
+- 🛠️ **Approach:** Build, experiment, debug, understand, improve
+
+> I care about more than making AI respond intelligently. I want to understand how to make it useful.
+
+---
+
+## Projects I've Built
+
+These projects reflect the kinds of problems I like exploring: reducing information overload, connecting AI to real workflows, building interactive applications, and applying deep learning to security.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 NeuraMail</h3>
+      <p>LLM-powered email analysis and prioritization.</p>
+      <p>Connects to Gmail, summarizes emails, classifies their content, and assigns urgency levels through an AI-powered workflow.</p>
+      <p><strong>Tech:</strong> Python, Flask, Gemini, LangChain, SQLite</p>
+      <a href="https://github.com/vishwesh-01/neuramail-">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 Bro-Chat</h3>
+      <p>A real-time chat application built with Flask and Socket.IO.</p>
+      <p>Includes public chat, invite-only rooms, real-time member lists, and file and image sharing.</p>
+      <p><strong>Tech:</strong> Python, Flask, Socket.IO, JavaScript</p>
+      <a href="https://github.com/vishwesh-01/Bro-chat">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ CNN-LSTM Hybrid IDS</h3>
+      <p>A deep-learning approach to network intrusion detection.</p>
+      <p>Combines CNN and LSTM architectures to analyze network traffic using the UNSW-NB15 dataset.</p>
+      <p><strong>Tech:</strong> Python, Deep Learning, CNN, LSTM</p>
+      <a href="https://github.com/vishwesh-01/unbswhybrid">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔬 Agentic & LLM Experiments</h3>
+      <p>A collection of AI experiments, notebooks, and prototypes.</p>
+      <p>Explores RAG, chatbot implementations, multi-LLM conversations, code-generation workflows, and website summarization.</p>
+      <p><strong>Focus:</strong> LLM applications, retrieval, experimentation</p>
+      <a href="https://github.com/vishwesh-01/agentic-programs">Explore Experiments →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=C21E30" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=C21E30" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=C21E30" alt="SQL"/>
+</p>
+
+### AI & LLM Development
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-8B0000?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG-8B0000?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=C21E30" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
+</p>
+
+### Frameworks, Databases & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=C21E30" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=C21E30" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=C21E30" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=C21E30" alt="Jupyter"/>
+</p>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishwesh-01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C21E30&text_color=FFFFFF&icon_color=C21E30&ring_color=C21E30&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=vishwesh-01&hide_border=true&background=0D1117&stroke=C21E30&ring=C21E30&fire=D7263D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C21E30&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak"/>
-</div>
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishwesh-01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C21E30&text_color=FFFFFF&icon_color=C21E30&include_all_commits=true" alt="GitHub Statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwesh-01&layout=compact&hide_border=true&bg_color=0D1117&title_color=C21E30&text_color=FFFFFF&langs_count=8" alt="Most Used Languages"/>
+
+</div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwesh-01&layout=compact&hide_border=true&bg_color=0D1117&title_color=C21E30&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishwesh-01&bg_color=0D1117&color=FFFFFF&line=C21E30&point=C21E30&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity"/>
+
 </div>
 
-<br/>
+---
+
+## What I'm Exploring Next
+
+I'm especially interested in building AI systems that can do more than generate text.
+
+- **Agentic AI:** Systems that use tools and follow multi-step workflows.
+- **Context-aware applications:** RAG and LLM pipelines that retrieve relevant information before responding.
+- **Accessible AI:** Voice-first interfaces that help people navigate digital experiences without depending on visual interfaces.
+- **End-to-end engineering:** Connecting models, application logic, data, and interfaces into systems people can actually use.
+
+I'm still learning, experimenting, and refining my approach. This profile is a record of that process—not a claim that I've mastered every technology listed here.
+
+---
+
+## Connect With Me
+
+I'm interested in connecting with people working on AI applications, LLMs, automation, and practical software projects.
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishwesh-01&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
 
-<br/>
+<a href="https://www.linkedin.com/in/vishwesh-patil-505969296/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=C21E30" alt="LinkedIn"/>
+</a>
 
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED DIVIDER -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<a href="mailto:patilvishwesh2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get_in_Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=C21E30" alt="Email"/>
+</a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<a href="https://github.com/vishwesh-01">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-0D1117?style=for-the-badge&logo=github&logoColor=C21E30" alt="GitHub"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION SNAKE SECTION -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
+**Building. Breaking. Understanding. Improving.**
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishwesh-01/vishwesh-01/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishwesh-01/vishwesh-01/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/vishwesh-01/vishwesh-01/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwesh-01&bg_color=0D1117&color=FFFFFF&line=C21E30&point=FFFFFF&area=true&area_color=C21E3050&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%"/>
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED DIVIDER -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- CONNECT SECTION -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-## 🔗 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C21E30)](https://www.linkedin.com/in/vishwesh-patil-505969296/)
-&nbsp;&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=C21E30)](mailto:patilvishwesh2004@gmail.com)
-&nbsp;&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C21E30)](https://github.com/vishwesh-01)
+*The goal isn't just to write more code. It's to build things worth using.*
 
 </div>
 
-<br/>
-
-<div align="center">
-  
-```
-⚡ "In the shadows of code, intelligence awakens." ⚡
-```
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- RANDOM DEV QUOTE -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker" alt="Dev Quote"/>
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED FOOTER -->
-<!-- ════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:C21E30,100:D7263D&height=120&section=footer)
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🦇 END OF THE DARK KNIGHT THEME 🦇 -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-```
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8B0000,100:C21E30&height=110&section=footer)
